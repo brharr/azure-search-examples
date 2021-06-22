@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5n4ZOOe/fB2G29aUMEPWRX1H5nvKsjtgF5mHabFMK2xAMg+P1sYn4+Mk+EFe+3lfZI1yc3CKoQx8UMyqO1hDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brian\\Dropbox\\Development\\cloudacademy\\azure-search-examples\\AzureSearchExamples_NET\\AzureSearchExamples_NET\\AzureSearchExamples_NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\azure.core\\1.15.0\\azure.core.1.15.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\azure.search.documents\\11.3.0\\azure.search.documents.11.3.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.threading.channels\\4.6.0\\system.threading.channels.4.6.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
