@@ -12,12 +12,9 @@ namespace AzureSearchExamples_NET
     {
         static void Main(string[] args)
         {
-            //string serviceName = "<Put your search service NAME here>";
-            string serviceName = "cognitive-search-east";
-            //string apiKey = "<Put your search service ADMIN API KEY here>";
-            string apiKey = "9F25B5D6440AED7ACEF4F8CC30C6A3F8";
-            //string connectionString = "<Put your Azure SQL connection string here>";
-            string connectionString = "Server=tcp:searchdemo.database.windows.net,1433;Initial Catalog=searchdemo;Persist Security Info=False;User ID=brianadmin;Password=D@rthVad3r0911;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string serviceName = "<Put your search service NAME here>";
+            string apiKey = "<Put your search service ADMIN API KEY here>";
+            string connectionString = "<Put your Azure SQL connection string here>";
             string indexName = "prod-index";
 
             // Create a SearchIndexClient to send create/delete index commands
